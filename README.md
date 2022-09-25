@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on : Kotlin Software
-- 🌱 I’m currently learning : Kotlin
+- 🌱 I’m currently learning : Kotlin, PHP
 - 👯 I’m looking to collaborate on : :)
 - 🤔 I’m looking for help with : <3
 - 💬 Ask me about : ?
