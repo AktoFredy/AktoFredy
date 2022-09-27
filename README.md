@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on : Kotlin Software
+- 🔭 I’m currently working on : Kotlin Software, Web Ui and example Database
 - 🌱 I’m currently learning : Kotlin, PHP
-- 👯 I’m looking to collaborate on : :)
-- 🤔 I’m looking for help with : <3
-- 💬 Ask me about : ?
+- 👯 I’m looking to collaborate on : :))
+- 🤔 I’m looking for help with : :))
+- 💬 Ask me about : ?my Projek?
 - 📫 How to reach me: WA and Tele
-- 😄 Pronouns: -
+- 😄 Pronouns: When duck run faster than turtle
 - ⚡ Fun fact: I love Anime
