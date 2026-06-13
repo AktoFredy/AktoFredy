@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hi, I'm Fredy Aktosa 👋
 
 Fresh graduate with a focus in **Android development** and a growing interest in **machine learning**.  
