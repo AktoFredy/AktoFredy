@@ -10,15 +10,31 @@ I build clean, functional apps — and I don't stop learning when there's someth
 **Mobile**
 `Kotlin` `XML` `Android SDK` `Jetpack`
 
+**Backend**
+`Laravel` `PHP`
+
 **Data & ML**
 `Python` `scikit-learn` `pandas` `numpy`
 
 **Database**
 `MySQL` `SQLite`
 
+**UI/UX Design**
+`Figma`
+
 ---
 
 ## 📌 Featured Project
+
+**[StokEase - POS and Inventory Android Application](https://github.com/AktoFredy/IventarisTA_10778)**  
+Full featured Android application designed for MSMEs or retail stores to manage their inventory dab point-of-sales operations efficiently.
+
+`Kotlin` `Clean Architecture` `Hilt` `Android` `XML`
+
+**[StokEase - POS and Inventory Android Application (Backend)](https://github.com/AktoFredy/IventarisTA_10778)**  
+Backend for StokEase, This is Laravel REST API that used to connect frontend client android and MySQL database.
+
+`MySQL` `Laravel` `PHP`
 
 **[ML Pemula — Dicoding x AWS AI Academy](https://github.com/AktoFredy/ml_gcollab_dicoding_practice)**  
 End-to-end machine learning pipeline: unsupervised clustering on financial transaction data for fraud detection, followed by supervised classification with hyperparameter tuning.
